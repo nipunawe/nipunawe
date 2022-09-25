@@ -6,7 +6,7 @@ My work combines and intersects physics, chemistry, biochemistry, computer scien
 
 I use GitHub to test and collaborate on various projects related to my research work.
 
-My work has a particular emphasis on G-protein-coupled receptors (**GPCRs**), which make the largest family of membrane proteins in the human genome and are involved in almost all physiological and pathophysiological processes of the body.
+My work has a main emphasis on G-protein-coupled receptors (**GPCRs**), which make the largest family of membrane proteins in the human genome and are involved in almost all physiological and pathophysiological processes of the body. Through my work, I have been trying to understand how various factors in the cellular environment modulate the activation of GPCRs and develop ways to extract this information.
 
 ![researchers-determine-4](https://user-images.githubusercontent.com/65001800/192161281-29f8022f-1134-48d1-b76a-573cfee2f79e.jpg)
 
